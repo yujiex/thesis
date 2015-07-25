@@ -1,0 +1,20 @@
+% Appendix A
+
+\chapter{Data Processing Log of GIS Analysis} % Main appendix title
+
+\label{AppendixB} % For referencing this appendix elsewhere, use \ref{AppendixA}
+
+\lhead{Appendix B. \emph{GIS Processing Log}} % This is for the header on each page - perhaps a shortened title
+\section{introduction}
+The session records the data source and process of using GIS to conduct the analysis of senior population concentration and existing senior center.
+\subsection{Building Base Map_ Acquiring Geographic Data}
+Download Block Group shapefile from Census Bureau\\ 
+Adding the Glock Group layer to the map file\\
+Download user tools for retrieving data from the two zip file above~\url{http://www2.census.gov/acs2011_5yr/summaryfile/}\\
+Create a gdb folder “cmu.gdb” for this assignment and put all related files inside that folder\\
+Import the table to the gdb folder\\
+Create three new field in attribute table of “PABlkGrp”: "senior_male" for male population of above 65 years old, "senior_female" for female population of above 65 years old, one “totalPopu” for the total population within a block group.
+Join the population table to the layer “PABlkGrp”\\
+Copy and retain the senior population and total population data then remove join\\
+Change the projection of the layer of “PABlkGrp” from GCS to “NAD\_1983\_StatePlane_Pennsylvania_South_FIPS_3702_Feet” using Geoprocessing -> Projection and transformation -> Project\\
+	Calculate senior people percentage over total population with field calculation: [SeniorPopu] / [TotalPopu]\\

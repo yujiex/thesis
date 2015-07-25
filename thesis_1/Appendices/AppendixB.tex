@@ -1,0 +1,36 @@
+% Appendix A
+
+\chapter{Data Processing Log of GIS Analysis} % Main appendix title
+
+\label{AppendixB} % For referencing this appendix elsewhere, use \ref{AppendixA}
+
+\lhead{Appendix B. \emph{GIS Processing Log}} % This is for the header on each page - perhaps a shortened title
+\section{introduction}
+The session records the data source and process of using GIS to
+conduct the analysis of senior population concentration and existing
+senior center.
+\section{Process}
+\subsection{Building Base Map and Acquiring Geographic Data}
+\begin{enumerate}
+\item Download Block Group shapefile from Census Bureau
+\item Adding the Glock Group layer to the map file
+\item Download user tools for retrieving data from the two zip file above~\url{http://www2.census.gov/acs2011_5yr/summaryfile/}
+\item Create a gdb folder ``cmu.gdb'' for this assignment and put all related files inside that folder
+\item Import the table to the gdb folder
+\item Create three new field in attribute table of ``PABlkGrp'':
+``senior\_mal''e for male population of above 65 years old,
+``senior\_female'' for female population of above 65 years old, one
+``totalPopu'' for the total population within a block group.
+Join the population table to the layer ``PABlkGrp''
+\item Copy and retain the senior population and total population data then remove join
+\item Change the projection of the layer of ``PABlkGrp'' from GCS to ``NAD\_1983\_StatePlane\_Pennsylvania\_South\_FIPS\_3702\_Feet'' using Geoprocessing -> Projection and transformation -> Project
+\item Calculate senior people percentage over total population with field calculation: [SeniorPopu] / [TotalPopu]
+\end{enumerate}
+\subsection{Using Geocoding to Add Senior Centers to the Map}
+\begin{enumerate}
+\item Download table of senior center addresses as a csv file
+\item Import the csv file to the cmu.gdb database
+\item Use the ``geocoding'' tool in ArcGIS to project the locations of
+  senior center to the map as a layer of point features
+\item Create a 0.3 mile buffer around the point in the address layer.
+\end{enumerate}

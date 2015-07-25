@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Alzheimer's Association}(2014)]{alzorg2014}
+{Alzheimer's Association}.
+\newblock Alzheimer's association alzheimer's disease facts and figures 2014,
+  mar 2014.
+\newblock URL \url{https://www.youtube.com/watch?v=waeuks1-3Z4}.
+
+\end{thebibliography}
