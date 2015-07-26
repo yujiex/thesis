@@ -1,14 +1,79 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Dalsanto(2009)]{Dalsanto2009}
+Teresa~S. Dalsanto.
+\newblock Senior center literature review.
+\newblock Technical report, California Commission on Aging, 2 2009.
+
+\bibitem[{JFCS}(2015)]{JFCS2015}
+{JFCS}.
+\newblock Senior housing choices, a brief guide, jul 2015.
+\newblock URL
+  \url{http://www.ajfca.org/images/upload/senior_housing-guide-jfcs-east-bay.pdf}.
+
+\bibitem[Fromm(2015)]{Fromm2015}
+Dorit Fromm.
+\newblock Open arms: Embracing generations and the larger community, Jul 2015.
+\newblock URL \url{http://www.secondjourney.org/itin/08_Fall/Fromm_08Fall.htm}.
+
+\bibitem[City~of Dülmen (Stadt~Dülmen)(2015)]{Dulmen2014}
+Regionale~2016 City~of Dülmen (Stadt~Dülmen), Catholic Community of St.
+  Viktor~Church.
+\newblock Intergenerational centre igz in dülmen, germany (intergeneratives
+  zentrum igz), jul 2015.
+\newblock URL
+  \url{http://www.gutierrez-delafuente.com/en/component/k2/item/51-intergenerational-centre-igz-in-duelmen}.
+
+\bibitem[{CDC}(2011)]{CDCdementia}
+{CDC}.
+\newblock Dementia/alzheimer's disease, jul 2011.
+\newblock URL
+  \url{http://www.cdc.gov/mentalhealth/basics/mental-illness/dementia.htm}.
+
 \bibitem[{Alzheimer's Association}(2014)]{alzorg2014}
 {Alzheimer's Association}.
 \newblock Alzheimer's association alzheimer's disease facts and figures 2014,
   mar 2014.
 \newblock URL \url{https://www.youtube.com/watch?v=waeuks1-3Z4}.
+
+\bibitem[Day et~al.(2000)Day, Carreon, and Stump]{Day2000}
+Kristen Day, Daisy Carreon, and Cheryl Stump.
+\newblock The therapeutic design of environments for people with dementia: A
+  review of the empirical research.
+\newblock \emph{The Gerontologist}, 40\penalty0 (4):\penalty0 397 -- 416, 2000.
+\newblock \doi{10.1093/geront/40.4.417}.
+
+\bibitem[ANTHONY et~al.(1987)ANTHONY, PROCTER, SILVERMAN, and
+  MURPHY]{ANTHONY01111987}
+KIM ANTHONY, ANDREW~W. PROCTER, A.~M. SILVERMAN, and ELAINE MURPHY.
+\newblock Mood and behaviour problems following the relocation of elderly
+  patients with mental illness.
+\newblock \emph{Age and Ageing}, 16\penalty0 (6):\penalty0 355--365, 1987.
+\newblock \doi{10.1093/ageing/16.6.355}.
+\newblock URL \url{http://ageing.oxfordjournals.org/content/16/6/355.abstract}.
+
+\bibitem[Annerstedt(1993)]{Annerstedt19931529}
+Lena Annerstedt.
+\newblock Development and consequences of group living in sweden: A new mode of
+  care for the demented elderly.
+\newblock \emph{Social Science \& Medicine}, 37\penalty0 (12):\penalty0 1529 --
+  1538, 1993.
+\newblock ISSN 0277-9536.
+\newblock \doi{http://dx.doi.org/10.1016/0277-9536(93)90187-9}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0277953693901879}.
+
+\bibitem[Mishima et~al.(1994)Mishima, Okawa, Hishikawa, Hozumi, Hori, and
+  Takahashi]{Mishima1994}
+K~Mishima, M~Okawa, Y~Hishikawa, S~Hozumi, H~Hori, and K~Takahashi.
+\newblock Morning bright light therapy for sleep and behavior disorders in
+  elderly patients with dementia.
+\newblock \emph{Acta Psychiatry Scandina}, 89\penalty0 (1):\penalty0 1--7, jan
+  1994.
 
 \end{thebibliography}
