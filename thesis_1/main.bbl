@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -21,13 +21,40 @@ Dorit Fromm.
 \newblock Open arms: Embracing generations and the larger community, Jul 2015.
 \newblock URL \url{http://www.secondjourney.org/itin/08_Fall/Fromm_08Fall.htm}.
 
-\bibitem[City~of Dülmen (Stadt~Dülmen)(2015)]{Dulmen2014}
-Regionale~2016 City~of Dülmen (Stadt~Dülmen), Catholic Community of St.
-  Viktor~Church.
-\newblock Intergenerational centre igz in dülmen, germany (intergeneratives
-  zentrum igz), jul 2015.
+\bibitem[{Google}(2015)]{googleMapLongiew}
+{Google}.
+\newblock Google map, jul 2015.
 \newblock URL
-  \url{http://www.gutierrez-delafuente.com/en/component/k2/item/51-intergenerational-centre-igz-in-duelmen}.
+  \url{https://www.google.com/maps/place/Longview,+an+Ithacare+Community/@42.4164795,-76.4995051,592m/data=!3m1!1e3!4m7!1m4!3m3!1s0x89d081aec997ccf5:0x7a54cd63ed9a4422!2sIthaca+College!3b1!3m1!1s0x0000000000000000:0xb8687de8efefb7cb!6m1!1e1}.
+
+\bibitem[{Longview}(2015{\natexlab{a}})]{LongviewIndepend}
+{Longview}.
+\newblock Independent living apartments at longview, jul 2015{\natexlab{a}}.
+\newblock URL
+  \url{http://www.ithacarelongview.com/independent-apartments.html}.
+
+\bibitem[{Longview}(2015{\natexlab{b}})]{LongviewPatio}
+{Longview}.
+\newblock Patio homes: the newest addition at longview, jul 2015{\natexlab{b}}.
+\newblock URL \url{http://www.ithacarelongview.com/patio-homes-duplexes.html}.
+
+\bibitem[{Longview}(2015{\natexlab{c}})]{patioLongview}
+{Longview}.
+\newblock Patio homes floor plan, right side unit, jul 2015{\natexlab{c}}.
+\newblock URL
+  \url{http://www.ithacarelongview.com/files/all/0846_right_unit_plan_scaled.pdf}.
+
+\bibitem[{Longview}(2015{\natexlab{d}})]{LongviewAssist}
+{Longview}.
+\newblock Assisted living at longview, jul 2015{\natexlab{d}}.
+\newblock URL
+  \url{http://www.ithacarelongview.com/assisted-living-suites.html}.
+
+\bibitem[{Longview}(2015{\natexlab{e}})]{enhanceLongview}
+{Longview}.
+\newblock Enhanced assisted living suites at longview, jul 2015{\natexlab{e}}.
+\newblock URL
+  \url{http://www.ithacarelongview.com/enhanced-assisted-living.html}.
 
 \bibitem[{CDC}(2011)]{CDCdementia}
 {CDC}.

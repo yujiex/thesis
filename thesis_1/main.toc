@@ -13,13 +13,17 @@
 \contentsline {section}{\numberline {1.1}General Design Considerations of Senior Population}{1}{section.14}
 \contentsline {section}{\numberline {1.2}Elderly and Children Combined Facility}{2}{section.15}
 \contentsline {subsection}{\numberline {1.2.1}Multi-generational Neighborhood Center}{2}{subsection.16}
-\contentsline {subsubsection}{\numberline {1.2.1.1}Intergenerational Quartier (Germany)}{2}{subsubsection.17}
-\contentsline {subsection}{\numberline {1.2.2}Mixed-generation Elderly Housing}{2}{subsection.18}
-\contentsline {subsection}{\numberline {1.2.3}Elderly Housing Next to Kindergarten}{2}{subsection.19}
-\contentsline {subsubsection}{\numberline {1.2.3.1}Altersheim Furttal, A Retirement Home in a Swiss Village}{2}{subsubsection.20}
-\contentsline {section}{\numberline {1.3}University Affiliated Senior Housing}{3}{section.22}
-\contentsline {section}{\numberline {1.4}Dementia Assisted Living}{3}{section.23}
-\contentsline {section}{\numberline {1.5}Sustainable Strategy in Senior Center}{4}{section.24}
+\contentsline {subsection}{\numberline {1.2.2}Mixed-generation Elderly Housing}{2}{subsection.17}
+\contentsline {subsection}{\numberline {1.2.3}Elderly Housing Next to Kindergarten}{2}{subsection.18}
+\contentsline {subsubsection}{\numberline {1.2.3.1}Altersheim Furttal, A Retirement Home in a Swiss Village}{2}{subsubsection.19}
+\contentsline {section}{\numberline {1.3}University Affiliated Senior Housing}{3}{section.21}
+\contentsline {subsection}{\numberline {1.3.1}Ithaca College and Longview Partnership}{3}{subsection.22}
+\contentsline {subsubsection}{\numberline {1.3.1.1}Connections between Longview and Ithaca College}{3}{subsubsection.23}
+\contentsline {subsubsection}{\numberline {1.3.1.2}Site Plan and Building Layout}{4}{subsubsection.24}
+\contentsline {subsubsection}{\numberline {1.3.1.3}Activities}{4}{subsubsection.26}
+\contentsline {subsubsection}{\numberline {1.3.1.4}Housing Choices and Unit Design}{5}{subsubsection.27}
+\contentsline {section}{\numberline {1.4}Dementia Assisted Living}{6}{section.32}
+\contentsline {section}{\numberline {1.5}Sustainable Strategy in Senior Center}{7}{section.33}
 \vspace {2em}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{5}{dummy.25}
+\contentsline {chapter}{Bibliography}{8}{dummy.34}
