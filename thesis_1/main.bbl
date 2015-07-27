@@ -1,9 +1,138 @@
-\begin{thebibliography}{15}
+\begin{thebibliography}{38}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[WHO(2015)]{WHO2015}
+WHO.
+\newblock Definition of an older or elderly person, Jun 2015.
+\newblock URL \url{http://www.who.int/healthinfo/survey/ageingdefnolder/en/}.
+
+\bibitem[Census(2015)]{censusQuickFact}
+U.S. Census.
+\newblock Quickfacts, pittsburgh city, pennsylvania, Jan 2015.
+\newblock URL
+  \url{http://www.census.gov/quickfacts/table/PST045214/4261000,00}.
+
+\bibitem[{Administration of Aging}(2015)]{AOA2015}
+{Administration of Aging}.
+\newblock Aging statistics, Jul 2015.
+\newblock \url{http://www.esri.com/software/arcgis/arcgis-for-desktop}.
+
+\bibitem[Census(2013)]{ArcGIS}
+U.S. Census.
+\newblock Arcgis for desktop, Dec 2013.
+\newblock URL \url{http://www.esri.com/software/arcgis/arcgis-for-desktop}.
+
+\bibitem[of~Aging(2013)]{aging2013}
+Pennsylvania~Department of~Aging.
+\newblock Senior centers, Dec 2013.
+\newblock URL
+  \url{http://www.aging.state.pa.us/portal/server.pt/community/senior_centers/17960}.
+
+\bibitem[Design and Development(2012)]{masterplan}
+Campus Design and Facilities Development.
+\newblock Carnegie mellon university institutional master plan.
+\newblock Technical report, Carnegie Mellon University, 1 2012.
+\newblock 12.
+
+\bibitem[Inc.(2013)]{neighborhood}
+Urban~Mapping Inc.
+\newblock Squirrel hill north neighborhood in pittsburgh, pennsylvania (pa),
+  Dec 2013.
+\newblock URL
+  \url{http://www.aging.state.pa.us/portal/server.pt/community/senior_centers/17960}.
+
+\bibitem[NORESCO(2015)]{remrate}
+NORESCO.
+\newblock Selecting a weather location, Jun 2015.
+\newblock URL
+  \url{http://www.aging.state.pa.us/portal/server.pt/community/senior_centers/17960}.
+
+\bibitem[UCLA(2015)]{climateConsult}
+UCLA.
+\newblock Energy design tool, Jul 2015.
+\newblock URL \url{http://www.energy-design-tools.aud.ucla.edu/}.
+
+\bibitem[Neyfakh(2014)]{Neyfakh2014}
+Leon Neyfakh.
+\newblock What "age segregation" does to america.
+\newblock \emph{The Boston Globe}, page~1, 8 2014.
+
+\bibitem[QoLT(2014)]{QoLT2014}
+QoLT.
+\newblock Transforming lives through innovative technology, Oct 2014.
+\newblock URL \url{http://www.cmu.edu/qolt/}.
+
+\bibitem[HCHW(2014)]{HCHW}
+HCHW.
+\newblock Qolt systems: Home and community health \& wellness (hchw), 2014.
+\newblock URL
+  \url{http://www.cmu.edu/qolt/Research/QoLTSystems/homecommunityhealthwellness.html#HCHW
+  System}.
+
+\bibitem[Smailagic et~al.(2012)Smailagic, Siewiorek, Matthews, Courtney, and
+  McMillan]{Kiosk}
+Asim Smailagic, Daniel~P. Siewiorek, Judith Matthews, Karen Courtney, and Julie
+  McMillan.
+\newblock Multi-user health kiosk.
+\newblock Technical report, Carnegie Mellon University, Sep 2012.
+\newblock URL
+  \url{http://www.cmu.edu/qolt/AboutQoLTCenter/PressRoom/IntelliHealth_Backgrounder_Sept2012.pdf}.
+
+\bibitem[Lee(2010)]{Lee:2010:EAW:1864431.1864490}
+Matthew~L. Lee.
+\newblock Embedded assessment of wellness with smart home sensors.
+\newblock In \emph{Proceedings of the 12th ACM International Conference Adjunct
+  Papers on Ubiquitous Computing - Adjunct}, UbiComp '10 Adjunct, pages
+  473--476, New York, NY, USA, 2010. ACM.
+\newblock ISBN 978-1-4503-0283-8.
+\newblock \doi{10.1145/1864431.1864490}.
+\newblock URL \url{http://doi.acm.org/10.1145/1864431.1864490}.
+
+\bibitem[Snodgrass and Mclntyre(2010)]{Snodgrass2010}
+Edmund~C. Snodgrass and Linda Mclntyre.
+\newblock \emph{The green roof manual: A professional guide to design,
+  installation, and maintenance.}
+\newblock Timber Press, Portland, 2010.
+
+\bibitem[Morehouse(2009)]{Morehouse2009}
+Lisa Morehouse.
+\newblock Senior citizens help young children with reading -- and
+  relationships, Jan 2009.
+\newblock URL
+  \url{http://www.edutopia.org/grace-learning-center-prekindergarten-community}.
+
+\bibitem[Parker(2009)]{Parker2009}
+Darren Parker.
+\newblock Ageless friendship: "grandpa" paul bookout welcomes kindergartners to
+  school at grace living center, 2009.
+\newblock URL
+  \url{http://www.edutopia.org/grace-learning-center-prekindergarten-community}.
+
+\bibitem[Wright and Lund(2000)]{Wright2000229}
+Scott~D. Wright and Dale~A. Lund.
+\newblock Gray and green?: Stewardship and sustainability in an aging society.
+\newblock \emph{Journal of Aging Studies}, 14\penalty0 (3):\penalty0 229 --
+  249, 2000.
+\newblock ISSN 0890-4065.
+\newblock \doi{http://dx.doi.org/10.1016/S0890-4065(00)08020-8}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0890406500080208}.
+
+\bibitem[Tai et~al.(2006)Tai, Haque, McLellan, and Knight]{Tai2006}
+Lolly Tai, Mary~Taylor Haque, Gina~K McLellan, and Erin~Jordan Knight.
+\newblock \emph{Designing outdoor environments for children: Landscaping
+  schoolyards, gardens, and playgrounds}.
+\newblock McGrawHill, New York, 2006.
+
+\bibitem[Souter-brown(2015)]{Souterbrown2015}
+Gayle Souter-brown.
+\newblock \emph{Landscape and urban design for health and well-being: Using
+  healing, sensory and therapeutic gardens}.
+\newblock Routledge, New York, 2015.
 
 \bibitem[Dalsanto(2009)]{Dalsanto2009}
 Teresa~S. Dalsanto.
@@ -20,6 +149,13 @@ Teresa~S. Dalsanto.
 Dorit Fromm.
 \newblock Open arms: Embracing generations and the larger community, Jul 2015.
 \newblock URL \url{http://www.secondjourney.org/itin/08_Fall/Fromm_08Fall.htm}.
+
+\bibitem[Smith(2014)]{Smith2014}
+M.~K Smith.
+\newblock Mehrgenerationenhäuser – multi-generational meeting houses in
+  germany’, the encyclopaedia of informal education, 2014.
+\newblock URL
+  \url{www.infed.org/mobi/mehrgenerationenhausen-multigenerational-meeting-houses-animation-care-pedagogy}.
 
 \bibitem[{Google}(2015)]{googleMapLongiew}
 {Google}.
@@ -102,5 +238,15 @@ K~Mishima, M~Okawa, Y~Hishikawa, S~Hozumi, H~Hori, and K~Takahashi.
   elderly patients with dementia.
 \newblock \emph{Acta Psychiatry Scandina}, 89\penalty0 (1):\penalty0 1--7, jan
   1994.
+
+\bibitem[Perkins(2004{\natexlab{a}})]{seniorLiving}
+B.~Perkins.
+\newblock \emph{Building type basics for senior living}.
+\newblock John Wiley \& Sons, Hoboken N.J, 2004{\natexlab{a}}.
+
+\bibitem[Perkins(2004{\natexlab{b}})]{Perkins2004}
+B~Perkins.
+\newblock \emph{Building type basics for senior living}.
+\newblock Hoboken, N.J.: John Wiley \& Sons, 2004{\natexlab{b}}.
 
 \end{thebibliography}

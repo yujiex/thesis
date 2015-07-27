@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.7)  26 JUL 2015 14:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.7)  27 JUL 2015 02:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -690,6 +690,18 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 
 LaTeX Warning: Label `fig:case2' multiply defined.
 
+
+LaTeX Warning: Label `fig:commonSpace8' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:commonSpace8' multiply defined.
+
+
+LaTeX Warning: Label `fig:commonSpace8pers' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:commonSpace8pers' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -801,25 +813,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--121
 ------------------------------------------------------------------------------
  Table of Contents
 ------------------------------------------------------------------------------
-(./main.toc)
+(./main.toc [5
+
+
+])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [5
-
-
-]
+ [6]
 ------------------------------------------------------------------------------
  List of Figures
 ------------------------------------------------------------------------------
-(./main.lof)
+(./main.lof [7
+
+
+])
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [6
-
-
-]
+ [8]
 ------------------------------------------------------------------------------
  List of Tables
 ------------------------------------------------------------------------------
@@ -827,14 +839,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--121
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [7
+ [9
 
 
 ]
 ------------------------------------------------------------------------------
  Abbreviations
 ------------------------------------------------------------------------------
-[8
+[10
 
 
 
@@ -842,141 +854,543 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--121
 ------------------------------------------------------------------------------
  Dedicatory
 ------------------------------------------------------------------------------
-[9
+[11
 
-] (./Chapters/Chapter2.tex
+] (./Chapters/Chapter1.tex
 Chapter 1.
 ------------------------------------------------------------------------------
- 1 Case Study
+ 1 Background Information
 ------------------------------------------------------------------------------
+<Pictures/stat.png, id=491, 340.27126pt x 271.0125pt>
+File: Pictures/stat.png Graphic file (type png)
+ <use Pictures/stat.png>
+Package pdftex.def Info: Pictures/stat.png used on input line 22.
+(pdftex.def)             Requested size: 340.27042pt x 271.01183pt.
+
 [1
 
 
 
-] Excluding 'comment' comment.
-<Pictures/case1.png, id=207, 904.37875pt x 506.89375pt>
+ <./Pictures/stat.png>]
+<Pictures/seniorPopu.jpg, id=506, 469.755pt x 332.1135pt>
+File: Pictures/seniorPopu.jpg Graphic file (type jpg)
+
+<use Pictures/seniorPopu.jpg>
+Package pdftex.def Info: Pictures/seniorPopu.jpg used on input line 54.
+(pdftex.def)             Requested size: 375.80452pt x 265.69116pt.
+
+
+LaTeX Warning: Reference `tab:seniorCenter' on page 2 undefined on input line 6
+2.
+
+[2 <./Pictures/seniorPopu.jpg>]
+<Pictures/siteLocation.png, id=516, 609.77812pt x 268.00125pt>
+File: Pictures/siteLocation.png Graphic file (type png)
+
+<use Pictures/siteLocation.png>
+Package pdftex.def Info: Pictures/siteLocation.png used on input line 81.
+(pdftex.def)             Requested size: 292.22987pt x 128.43875pt.
+
+<Pictures/surroundingBd.png, id=519, 594.72188pt x 340.27126pt>
+File: Pictures/surroundingBd.png Graphic file (type png)
+
+<use Pictures/surroundingBd.png>
+Package pdftex.def Info: Pictures/surroundingBd.png used on input line 87.
+(pdftex.def)             Requested size: 292.22987pt x 167.19646pt.
+ [3 <./Pictures/siteLocation.png> <./Pictures/surroundingBd.png>]
+Underfull \hbox (badness 5260) in paragraph at lines 124--124
+[]\OT1/cmr/m/n/10.95 Population Den-sity (peo-ple
+ []
+
+[4] <Pictures/neighborhood.png, id=539, 501.37312pt x 335.00156pt>
+File: Pictures/neighborhood.png Graphic file (type png)
+
+<use Pictures/neighborhood.png>
+Package pdftex.def Info: Pictures/neighborhood.png used on input line 156.
+(pdftex.def)             Requested size: 292.22987pt x 195.26714pt.
+ Excluding 'comment' comment.
+<Pictures/history.png, id=543, 1089.31969pt x 533.74406pt>
+File: Pictures/history.png Graphic file (type png)
+
+<use Pictures/history.png>
+Package pdftex.def Info: Pictures/history.png used on input line 186.
+(pdftex.def)             Requested size: 417.47307pt x 204.55142pt.
+ [5 <./Pictures/neighborhood.png>]
+<Pictures/prevDesign.png, id=549, 569.87906pt x 451.6875pt>
+File: Pictures/prevDesign.png Graphic file (type png)
+
+<use Pictures/prevDesign.png>
+Package pdftex.def Info: Pictures/prevDesign.png used on input line 222.
+(pdftex.def)             Requested size: 417.47307pt x 330.88701pt.
+ [6 <./Pictures/history.png>]
+<Pictures/psChart.png, id=555, 749.80125pt x 474.27188pt>
+File: Pictures/psChart.png Graphic file (type png)
+
+<use Pictures/psChart.png>
+Package pdftex.def Info: Pictures/psChart.png used on input line 237.
+(pdftex.def)             Requested size: 292.22987pt x 184.84225pt.
+ [7 <./Pictures/prevDesign.png>]
+<Pictures/strategy.png, id=568, 753.5653pt x 472.76625pt>
+File: Pictures/strategy.png Graphic file (type png)
+
+<use Pictures/strategy.png>
+Package pdftex.def Info: Pictures/strategy.png used on input line 246.
+(pdftex.def)             Requested size: 292.22987pt x 183.33209pt.
+
+<Pictures/wind.png, id=571, 747.54282pt x 420.82219pt>
+File: Pictures/wind.png Graphic file (type png)
+ <use Pictures/wind.png>
+Package pdftex.def Info: Pictures/wind.png used on input line 253.
+(pdftex.def)             Requested size: 292.22987pt x 164.50526pt.
+
+[8 <./Pictures/psChart.png> <./Pictures/strategy.png>] [9 <./Pictures/wind.png>
+] [10]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 350.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 350.
+
+<Pictures/kiosk.png, id=597, 260.975pt x 200.75pt>
+File: Pictures/kiosk.png Graphic file (type png)
+ <use Pictures/kiosk.png>
+Package pdftex.def Info: Pictures/kiosk.png used on input line 359.
+(pdftex.def)             Requested size: 208.73653pt x 160.56956pt.
+
+[11 <./Pictures/kiosk.png (PNG copy)>] [12] Excluding 'comment' comment.
+[13] <Pictures/oldAndYoung.jpg, id=627, 391.4625pt x 259.97125pt>
+File: Pictures/oldAndYoung.jpg Graphic file (type jpg)
+
+<use Pictures/oldAndYoung.jpg>
+Package pdftex.def Info: Pictures/oldAndYoung.jpg used on input line 459.
+(pdftex.def)             Requested size: 208.73653pt x 138.62506pt.
+ [14] [15 <./Pictures/oldAndYoung.jpg>])
+(./Chapters/Chapter2.tex [16]
+Chapter 2.
+------------------------------------------------------------------------------
+ 2 Case Study
+------------------------------------------------------------------------------
+[17
+
+]
+Overfull \hbox (187.10144pt too wide) in paragraph at lines 65--72
+\OT1/cmr/m/n/10.95 !!!!![][]$\OT1/cmtt/m/n/10.95 http : / / infed . org / mobi 
+/ mehrgenerationenhausen-[]multigenerational-[]meeting-[]houses-[]animation-[]c
+are-[]pedagogy/$[][] 
+ []
+
+[18] <Pictures/case1.png, id=673, 904.37875pt x 506.89375pt>
 File: Pictures/case1.png Graphic file (type png)
 
 <use Pictures/case1.png>
-Package pdftex.def Info: Pictures/case1.png used on input line 90.
+Package pdftex.def Info: Pictures/case1.png used on input line 100.
 (pdftex.def)             Requested size: 292.22987pt x 163.78716pt.
- <Pictures/case2.png, id=208, 902.37125pt x 505.89pt>
+ <Pictures/case2.png, id=674, 902.37125pt x 505.89pt>
 File: Pictures/case2.png Graphic file (type png)
 
 <use Pictures/case2.png>
-Package pdftex.def Info: Pictures/case2.png used on input line 96.
+Package pdftex.def Info: Pictures/case2.png used on input line 106.
 (pdftex.def)             Requested size: 292.22987pt x 163.83334pt.
- [2] [3 <./Pictures/case1.png (PNG copy)> <./Pictures/case2.png (PNG copy)>]
-<Pictures/siteLongview.png, id=220, 912.40875pt x 537.00626pt>
+ [19 <./Pictures/case1.png (PNG copy)> <./Pictures/case2.png (PNG copy)>]
+<Pictures/siteLongview.png, id=681, 912.40875pt x 537.00626pt>
 File: Pictures/siteLongview.png Graphic file (type png)
 
 <use Pictures/siteLongview.png>
-Package pdftex.def Info: Pictures/siteLongview.png used on input line 136.
+Package pdftex.def Info: Pictures/siteLongview.png used on input line 152.
 (pdftex.def)             Requested size: 292.22987pt x 171.993pt.
-
-<Pictures/independUnit.png, id=224, 596.2275pt x 299.1175pt>
+ [20]
+<Pictures/independUnit.png, id=690, 596.2275pt x 299.1175pt>
 File: Pictures/independUnit.png Graphic file (type png)
 
 <use Pictures/independUnit.png>
-Package pdftex.def Info: Pictures/independUnit.png used on input line 160.
+Package pdftex.def Info: Pictures/independUnit.png used on input line 177.
 (pdftex.def)             Requested size: 292.22987pt x 146.60536pt.
- [4 <./Pictures/siteLongview.png (PNG copy)>]
-<Pictures/patioLongview.png, id=233, 792.9625pt x 430.60875pt>
+
+<Pictures/patioLongview.png, id=694, 792.9625pt x 430.60875pt>
 File: Pictures/patioLongview.png Graphic file (type png)
 
 <use Pictures/patioLongview.png>
-Package pdftex.def Info: Pictures/patioLongview.png used on input line 174.
+Package pdftex.def Info: Pictures/patioLongview.png used on input line 191.
 (pdftex.def)             Requested size: 292.22987pt x 158.69196pt.
-
-<Pictures/assistLongview.png, id=236, 942.52126pt x 472.76625pt>
+ [21 <./Pictures/siteLongview.png (PNG copy)> <./Pictures/independUnit.png (PNG
+ copy)>]
+<Pictures/assistLongview.png, id=702, 942.52126pt x 472.76625pt>
 File: Pictures/assistLongview.png Graphic file (type png)
 
 <use Pictures/assistLongview.png>
-Package pdftex.def Info: Pictures/assistLongview.png used on input line 188.
+Package pdftex.def Info: Pictures/assistLongview.png used on input line 205.
 (pdftex.def)             Requested size: 292.22987pt x 146.57765pt.
 
-<Pictures/enhanceLongview.png, id=239, 574.145pt x 293.095pt>
+<Pictures/enhanceLongview.png, id=705, 574.145pt x 293.095pt>
 File: Pictures/enhanceLongview.png Graphic file (type png)
 
 <use Pictures/enhanceLongview.png>
-Package pdftex.def Info: Pictures/enhanceLongview.png used on input line 201.
+Package pdftex.def Info: Pictures/enhanceLongview.png used on input line 218.
 (pdftex.def)             Requested size: 292.22987pt x 149.18129pt.
- [5 <./Pictures/independUnit.png (PNG copy)> <./Pictures/patioLongview.png (PNG
- copy)>] [6 <./Pictures/assistLongview.png (PNG copy)> <./Pictures/enhanceLongv
-iew.png (PNG copy)>]) [7]
+ [22 <./Pictures/patioLongview.png (PNG copy)> <./Pictures/assistLongview.png (
+PNG copy)>] [23 <./Pictures/enhanceLongview.png (PNG copy)>]) (./Chapters/Chapt
+er3.tex [24]
+Chapter 3.
+------------------------------------------------------------------------------
+ 3 Preliminary Design
+------------------------------------------------------------------------------
+<Pictures/bridge1.png, id=744, 901.3675pt x 405.515pt>
+File: Pictures/bridge1.png Graphic file (type png)
+
+<use Pictures/bridge1.png>
+Package pdftex.def Info: Pictures/bridge1.png used on input line 40.
+(pdftex.def)             Requested size: 292.22987pt x 131.46904pt.
+
+<Pictures/bridge2.png, id=745, 1104.125pt x 515.9275pt>
+File: Pictures/bridge2.png Graphic file (type png)
+
+<use Pictures/bridge2.png>
+Package pdftex.def Info: Pictures/bridge2.png used on input line 46.
+(pdftex.def)             Requested size: 292.22987pt x 136.54694pt.
+ [25
+
+]
+<Pictures/site.jpg, id=755, 828.09375pt x 452.4403pt>
+File: Pictures/site.jpg Graphic file (type jpg)
+ <use Pictures/site.jpg>
+Package pdftex.def Info: Pictures/site.jpg used on input line 58.
+(pdftex.def)             Requested size: 375.7232pt x 205.28766pt.
+
+<Pictures/siteClose.jpg, id=756, 828.09375pt x 451.6875pt>
+File: Pictures/siteClose.jpg Graphic file (type jpg)
+
+<use Pictures/siteClose.jpg>
+Package pdftex.def Info: Pictures/siteClose.jpg used on input line 64.
+(pdftex.def)             Requested size: 375.7232pt x 204.94608pt.
+ [26 <./Pictures/bridge1.png> <./Pictures/bridge2.png>] <Pictures/spacePattern.
+png, id=765, 706.13812pt x 385.44pt>
+File: Pictures/spacePattern.png Graphic file (type png)
+
+<use Pictures/spacePattern.png>
+Package pdftex.def Info: Pictures/spacePattern.png used on input line 101.
+(pdftex.def)             Requested size: 292.22987pt x 159.51352pt.
+
+<Pictures/spaceTree.png, id=766, 698.61pt x 342.5297pt>
+File: Pictures/spaceTree.png Graphic file (type png)
+
+<use Pictures/spaceTree.png>
+Package pdftex.def Info: Pictures/spaceTree.png used on input line 107.
+(pdftex.def)             Requested size: 292.22987pt x 143.28134pt.
+
+<Pictures/plan1unit.png, id=767, 393.72093pt x 262.73157pt>
+File: Pictures/plan1unit.png Graphic file (type png)
+
+<use Pictures/plan1unit.png>
+Package pdftex.def Info: Pictures/plan1unit.png used on input line 117.
+(pdftex.def)             Requested size: 292.22987pt x 195.0036pt.
+
+<Pictures/persUnit.png, id=768, 724.6272pt x 542.025pt>
+File: Pictures/persUnit.png Graphic file (type png)
+
+<use Pictures/persUnit.png>
+Package pdftex.def Info: Pictures/persUnit.png used on input line 123.
+(pdftex.def)             Requested size: 417.47307pt x 312.2657pt.
+ [27 <./Pictures/site.jpg> <./Pictures/siteClose.jpg>] <Pictures/plan2unit.png,
+ id=773, 387.69844pt x 334.24875pt>
+File: Pictures/plan2unit.png Graphic file (type png)
+
+<use Pictures/plan2unit.png>
+Package pdftex.def Info: Pictures/plan2unit.png used on input line 130.
+(pdftex.def)             Requested size: 292.22987pt x 251.9457pt.
+ [28 <./Pictures/spacePattern.png> <./Pictures/spaceTree.png> <./Pictures/plan1
+unit.png>]
+<Pictures/pers2unit.png, id=778, 877.8396pt x 542.025pt>
+File: Pictures/pers2unit.png Graphic file (type png)
+
+<use Pictures/pers2unit.png>
+Package pdftex.def Info: Pictures/pers2unit.png used on input line 136.
+(pdftex.def)             Requested size: 417.47307pt x 257.77055pt.
+
+<Pictures/twoUnit-1.png, id=779, 815.29594pt x 464.4853pt>
+File: Pictures/twoUnit-1.png Graphic file (type png)
+
+<use Pictures/twoUnit-1.png>
+Package pdftex.def Info: Pictures/twoUnit-1.png used on input line 144.
+(pdftex.def)             Requested size: 417.47307pt x 237.84117pt.
+
+<Pictures/twoUnit-entrance.jpg, id=780, 828.09375pt x 554.07pt>
+File: Pictures/twoUnit-entrance.jpg Graphic file (type jpg)
+
+<use Pictures/twoUnit-entrance.jpg>
+Package pdftex.def Info: Pictures/twoUnit-entrance.jpg used on input line 150.
+(pdftex.def)             Requested size: 417.47307pt x 279.33392pt.
+
+<Pictures/twoUnit-2.png, id=781, 825.0825pt x 487.8225pt>
+File: Pictures/twoUnit-2.png Graphic file (type png)
+
+<use Pictures/twoUnit-2.png>
+Package pdftex.def Info: Pictures/twoUnit-2.png used on input line 162.
+(pdftex.def)             Requested size: 417.47307pt x 246.82852pt.
+
+<Pictures/twoUnit-gd.jpg, id=782, 828.09375pt x 558.58687pt>
+File: Pictures/twoUnit-gd.jpg Graphic file (type jpg)
+
+<use Pictures/twoUnit-gd.jpg>
+Package pdftex.def Info: Pictures/twoUnit-gd.jpg used on input line 168.
+(pdftex.def)             Requested size: 417.47307pt x 281.6111pt.
+
+<Pictures/commonSpace8.png, id=783, 1104.125pt x 704.6325pt>
+File: Pictures/commonSpace8.png Graphic file (type png)
+
+<use Pictures/commonSpace8.png>
+Package pdftex.def Info: Pictures/commonSpace8.png used on input line 180.
+(pdftex.def)             Requested size: 417.47307pt x 266.42992pt.
+
+<Pictures/commonSpace8pers.png, id=784, 1104.125pt x 683.55376pt>
+File: Pictures/commonSpace8pers.png Graphic file (type png)
+
+<use Pictures/commonSpace8pers.png>
+Package pdftex.def Info: Pictures/commonSpace8pers.png used on input line 186.
+(pdftex.def)             Requested size: 417.47307pt x 258.45978pt.
+
+<Pictures/commonSpace8up.png, id=785, 1104.125pt x 701.62125pt>
+File: Pictures/commonSpace8up.png Graphic file (type png)
+
+<use Pictures/commonSpace8up.png>
+Package pdftex.def Info: Pictures/commonSpace8up.png used on input line 198.
+(pdftex.def)             Requested size: 417.47307pt x 265.2913pt.
+
+<Pictures/commonSpace8upPers.png, id=786, 1104.125pt x 682.55pt>
+File: Pictures/commonSpace8upPers.png Graphic file (type png)
+
+<use Pictures/commonSpace8upPers.png>
+Package pdftex.def Info: Pictures/commonSpace8upPers.png used on input line 204
+.
+(pdftex.def)             Requested size: 417.47307pt x 258.08025pt.
+ [29 <./Pictures/persUnit.png>] [30 <./Pictures/plan2unit.png> <./Pictures/pers
+2unit.png>] [31 <./Pictures/twoUnit-1.png> <./Pictures/twoUnit-entrance.jpg>] [
+32 <./Pictures/twoUnit-2.png> <./Pictures/twoUnit-gd.jpg>] [33 <./Pictures/comm
+onSpace8.png> <./Pictures/commonSpace8pers.png>] [34 <./Pictures/commonSpace8up
+.png> <./Pictures/commonSpace8upPers.png>] <Pictures/path.png, id=822, 692.5875
+pt x 271.76532pt>
+File: Pictures/path.png Graphic file (type png)
+ <use Pictures/path.png>
+Package pdftex.def Info: Pictures/path.png used on input line 222.
+(pdftex.def)             Requested size: 292.22987pt x 114.67143pt.
+
+<Pictures/indoorGarden.png, id=824, 692.5875pt x 378.66469pt>
+File: Pictures/indoorGarden.png Graphic file (type png)
+
+<use Pictures/indoorGarden.png>
+Package pdftex.def Info: Pictures/indoorGarden.png used on input line 230.
+(pdftex.def)             Requested size: 292.22987pt x 159.77765pt.
+
+<Pictures/sketchSustainable.png, id=826, 543.02875pt x 516.93124pt>
+File: Pictures/sketchSustainable.png Graphic file (type png)
+
+<use Pictures/sketchSustainable.png>
+Package pdftex.def Info: Pictures/sketchSustainable.png used on input line 239.
+
+(pdftex.def)             Requested size: 333.97972pt x 317.93843pt.
+) (./Chapters/Chapter4.tex [35 <./Pictures/path.png> <./Pictures/indoorGarden.p
+ng>] [36 <./Pictures/sketchSustainable.png>]
+Chapter 4.
+------------------------------------------------------------------------------
+ 4 Drawings
+------------------------------------------------------------------------------
+<Pictures/sitePlan.png, id=836, 645.16031pt x 485.56406pt>
+File: Pictures/sitePlan.png Graphic file (type png)
+
+<use Pictures/sitePlan.png>
+Package pdftex.def Info: Pictures/sitePlan.png used on input line 12.
+(pdftex.def)             Requested size: 417.47307pt x 314.19775pt.
+
+<Pictures/FirstFloorPlan.png, id=837, 358.33875pt x 1005.00468pt>
+File: Pictures/FirstFloorPlan.png Graphic file (type png)
+
+<use Pictures/FirstFloorPlan.png>
+Package pdftex.def Info: Pictures/FirstFloorPlan.png used on input line 21.
+(pdftex.def)             Requested size: 208.73653pt x 585.43343pt.
+
+<Pictures/SecondFloorPlan.png, id=838, 380.92313pt x 1001.24063pt>
+File: Pictures/SecondFloorPlan.png Graphic file (type png)
+
+<use Pictures/SecondFloorPlan.png>
+Package pdftex.def Info: Pictures/SecondFloorPlan.png used on input line 28.
+(pdftex.def)             Requested size: 208.73653pt x 548.65213pt.
+
+Overfull \hbox (4.86665pt too wide) in paragraph at lines 19--32
+ []$[]$  $[]$ 
+ []
+
+<Pictures/ThirdFloorPlan.png, id=839, 374.14781pt x 1003.49907pt>
+File: Pictures/ThirdFloorPlan.png Graphic file (type png)
+
+<use Pictures/ThirdFloorPlan.png>
+Package pdftex.def Info: Pictures/ThirdFloorPlan.png used on input line 40.
+(pdftex.def)             Requested size: 208.73653pt x 559.85788pt.
+
+<Pictures/FourthFloorPlan.png, id=840, 378.66469pt x 1003.49907pt>
+File: Pictures/FourthFloorPlan.png Graphic file (type png)
+
+<use Pictures/FourthFloorPlan.png>
+Package pdftex.def Info: Pictures/FourthFloorPlan.png used on input line 47.
+(pdftex.def)             Requested size: 208.73653pt x 553.1818pt.
+
+Overfull \hbox (4.86665pt too wide) in paragraph at lines 38--51
+ []$[]$  $[]$ 
+ []
+
+<Pictures/ElevationNorth.png, id=841, 214.55156pt x 1007.26312pt>
+File: Pictures/ElevationNorth.png Graphic file (type png)
+
+<use Pictures/ElevationNorth.png>
+Package pdftex.def Info: Pictures/ElevationNorth.png used on input line 59.
+(pdftex.def)             Requested size: 138.54346pt x 650.43pt.
+
+<Pictures/ElevationSouth.png, id=842, 164.11313pt x 1011.02719pt>
+File: Pictures/ElevationSouth.png Graphic file (type png)
+
+<use Pictures/ElevationSouth.png>
+Package pdftex.def Info: Pictures/ElevationSouth.png used on input line 66.
+(pdftex.def)             Requested size: 105.58044pt x 650.43pt.
+
+Overfull \hbox (4.86665pt too wide) in paragraph at lines 57--70
+ []$[]$  $[]$ 
+ []
+
+
+LaTeX Warning: Float too large for page by 5.45691pt on input line 72.
+
+<Pictures/ElevationEast.png, id=843, 931.98187pt x 467.49657pt>
+File: Pictures/ElevationEast.png Graphic file (type png)
+
+<use Pictures/ElevationEast.png>
+Package pdftex.def Info: Pictures/ElevationEast.png used on input line 78.
+(pdftex.def)             Requested size: 417.47307pt x 209.4085pt.
+
+<Pictures/ElevationWest.png, id=844, 969.6225pt x 461.47406pt>
+File: Pictures/ElevationWest.png Graphic file (type png)
+
+<use Pictures/ElevationWest.png>
+Package pdftex.def Info: Pictures/ElevationWest.png used on input line 85.
+(pdftex.def)             Requested size: 417.47307pt x 198.6905pt.
+) [37
+
+ <./Pictures/sitePlan.png>] [38 <./Pictures/FirstFloorPlan.png> <./Pictures/Sec
+ondFloorPlan.png>] [39 <./Pictures/ThirdFloorPlan.png> <./Pictures/FourthFloorP
+lan.png>] [40 <./Pictures/ElevationNorth.png> <./Pictures/ElevationSouth.png>] 
+[41 <./Pictures/ElevationEast.png> <./Pictures/ElevationWest.png>]
 ------------------------------------------------------------------------------
  Bibliography
 ------------------------------------------------------------------------------
 (./main.bbl
-Underfull \hbox (badness 2698) in paragraph at lines 25--29
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+[]\OT1/cmr/m/n/10.95 HCHW.  Qolt sys-tems: Home and com-mu-nity health & well-n
+ess
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 70--75
+\OT1/cmr/m/n/10.95 (hchw), 2014.  URL [][]$\OT1/cmtt/m/n/10.95 http : / / www .
+ cmu . edu / qolt / Research / QoLTSystems /
+ []
+
+[42
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 102--107
+[]\OT1/cmr/m/n/10.95 Lisa More-house.  Se-nior cit-i-zens help young chil-dren 
+with read-
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 102--107
+\OT1/cmr/m/n/10.95 ing -- and re-la-tion-ships, Jan 2009.  URL [][]$\OT1/cmtt/m
+/n/10.95 http : / / www . edutopia . org /
+ []
+
+[43]
+Overfull \hbox (65.2233pt too wide) in paragraph at lines 154--159
+\OT1/cmtt/m/n/10.95 mehrgenerationenhausen-[]multigenerational-[]meeting-[]hous
+es-[]animation-[]care-[]pedagogy$[][]\OT1/cmr/m/n/10.95 . 
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 161--165
 []\OT1/cmr/m/n/10.95 Google.  Google map, jul 2015.  URL [][]$\OT1/cmtt/m/n/10.
 95 https : / / www . google . com / maps /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--29
+Underfull \hbox (badness 10000) in paragraph at lines 161--165
 \OT1/cmtt/m/n/10.95 place / Longview ,[] +an + Ithacare + Community / @42 . 416
 4795 ,[] -[]76 . 4995051 ,[] 592m /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--29
+Underfull \hbox (badness 10000) in paragraph at lines 161--165
 \OT1/cmtt/m/n/10.95 data = !3m1 ! 1e3 ! 4m7 ! 1m4 ! 3m3 ! 1s0x89d081aec997ccf5 
 : 0x7a54cd63ed9a4422 !
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--29
+Underfull \hbox (badness 10000) in paragraph at lines 161--165
 \OT1/cmtt/m/n/10.95 2sIthaca + College ! 3b1 ! 3m1 ! 1s0x0000000000000000 : 0xb
 8687de8efefb7cb !
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 48--52
+Underfull \hbox (badness 3199) in paragraph at lines 184--188
 []\OT1/cmr/m/n/10.95 Longview.  As-sisted liv-ing at longview, jul 2015.  URL [
 ][]$\OT1/cmtt/m/n/10.95 http : / / www .
  []
 
-[8
-
-
-])
+[44])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 313.
- [9]
+ [45]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 313.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 313.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 313.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9F526068C23CDC63E2D59E305B59360A;4970.
+(rerunfilecheck)             Checksum: D8C7F1EC881EB2E5A53C56D5D57BB2F5;15093.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 313.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 486 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 13225 strings out of 495028
- 185725 string characters out of 6181498
- 254407 words of memory out of 5000000
- 16169 multiletter control sequences out of 15000+600000
+ 13792 strings out of 495028
+ 196694 string characters out of 6181498
+ 263956 words of memory out of 5000000
+ 16542 multiletter control sequences out of 15000+600000
  14728 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 49i,11n,45p,464b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/symbols/msam7.pfb>
-Output written on main.pdf (19 pages, 2301962 bytes).
+ 49i,12n,45p,1183b,561s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/symbols/msam7.pfb>
+Output written on main.pdf (57 pages, 12136203 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 317 compressed objects within 4 object streams
- 70 named destinations out of 1000 (max. 500000)
- 220 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1032 PDF objects out of 1200 (max. 8388607)
+ 872 compressed objects within 9 object streams
+ 210 named destinations out of 1000 (max. 500000)
+ 774 words of extra memory for PDF output out of 10000 (max. 10000000)
 
