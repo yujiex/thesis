@@ -1,4 +1,4 @@
-\begin{thebibliography}{38}
+\begin{thebibliography}{40}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -163,32 +163,37 @@ M.~K Smith.
 \newblock URL
   \url{https://www.google.com/maps/place/Longview,+an+Ithacare+Community/@42.4164795,-76.4995051,592m/data=!3m1!1e3!4m7!1m4!3m3!1s0x89d081aec997ccf5:0x7a54cd63ed9a4422!2sIthaca+College!3b1!3m1!1s0x0000000000000000:0xb8687de8efefb7cb!6m1!1e1}.
 
-\bibitem[{Longview}(2015{\natexlab{a}})]{LongviewIndepend}
+\bibitem[{Longview}(2015{\natexlab{a}})]{patioLongview}
 {Longview}.
-\newblock Independent living apartments at longview, jul 2015{\natexlab{a}}.
-\newblock URL
-  \url{http://www.ithacarelongview.com/independent-apartments.html}.
-
-\bibitem[{Longview}(2015{\natexlab{b}})]{LongviewPatio}
-{Longview}.
-\newblock Patio homes: the newest addition at longview, jul 2015{\natexlab{b}}.
-\newblock URL \url{http://www.ithacarelongview.com/patio-homes-duplexes.html}.
-
-\bibitem[{Longview}(2015{\natexlab{c}})]{patioLongview}
-{Longview}.
-\newblock Patio homes floor plan, right side unit, jul 2015{\natexlab{c}}.
+\newblock Patio homes floor plan, right side unit, jul 2015{\natexlab{a}}.
 \newblock URL
   \url{http://www.ithacarelongview.com/files/all/0846_right_unit_plan_scaled.pdf}.
 
-\bibitem[{Longview}(2015{\natexlab{d}})]{LongviewAssist}
+\bibitem[{Longview}(2015{\natexlab{b}})]{plan4Longview}
 {Longview}.
-\newblock Assisted living at longview, jul 2015{\natexlab{d}}.
+\newblock Virtual tour, maps, videos \& such, jul 2015{\natexlab{b}}.
+\newblock URL \url{http://www.ithacarelongview.com/video-tour.html}.
+
+\bibitem[{Longview}(2015{\natexlab{c}})]{LongviewIndepend}
+{Longview}.
+\newblock Independent living apartments at longview, jul 2015{\natexlab{c}}.
+\newblock URL
+  \url{http://www.ithacarelongview.com/independent-apartments.html}.
+
+\bibitem[{Longview}(2015{\natexlab{d}})]{LongviewPatio}
+{Longview}.
+\newblock Patio homes: the newest addition at longview, jul 2015{\natexlab{d}}.
+\newblock URL \url{http://www.ithacarelongview.com/patio-homes-duplexes.html}.
+
+\bibitem[{Longview}(2015{\natexlab{e}})]{LongviewAssist}
+{Longview}.
+\newblock Assisted living at longview, jul 2015{\natexlab{e}}.
 \newblock URL
   \url{http://www.ithacarelongview.com/assisted-living-suites.html}.
 
-\bibitem[{Longview}(2015{\natexlab{e}})]{enhanceLongview}
+\bibitem[{Longview}(2015{\natexlab{f}})]{enhanceLongview}
 {Longview}.
-\newblock Enhanced assisted living suites at longview, jul 2015{\natexlab{e}}.
+\newblock Enhanced assisted living suites at longview, jul 2015{\natexlab{f}}.
 \newblock URL
   \url{http://www.ithacarelongview.com/enhanced-assisted-living.html}.
 
@@ -243,6 +248,12 @@ K~Mishima, M~Okawa, Y~Hishikawa, S~Hozumi, H~Hori, and K~Takahashi.
 B.~Perkins.
 \newblock \emph{Building type basics for senior living}.
 \newblock John Wiley \& Sons, Hoboken N.J, 2004{\natexlab{a}}.
+
+\bibitem[Cohena et~al.(1988)Cohena, Weisman, Steiner, and
+  Calkins]{dementiaCase}
+U~Cohena, G.~D. Weisman, V.~L. Steiner, and M.~Calkins.
+\newblock \emph{Environments for people with dementia: Case studies}.
+\newblock Health Facilities Research Program, Washington, DC, 1988.
 
 \bibitem[Perkins(2004{\natexlab{b}})]{Perkins2004}
 B~Perkins.

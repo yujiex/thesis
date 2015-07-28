@@ -5,9 +5,9 @@
 \contentsline {chapter}{Acknowledgements}{iv}{dummy.3}
 \vspace {1em}
 \contentsline {chapter}{Contents}{v}{dummy.4}
-\contentsline {chapter}{List of Figures}{vii}{dummy.6}
-\contentsline {chapter}{List of Tables}{ix}{dummy.8}
-\contentsline {chapter}{Abbreviations}{x}{dummy.10}
+\contentsline {chapter}{List of Figures}{viii}{dummy.6}
+\contentsline {chapter}{List of Tables}{x}{dummy.8}
+\contentsline {chapter}{Abbreviations}{xi}{dummy.10}
 \vspace {2em}
 \contentsline {chapter}{\numberline {1}Background Information}{1}{chapter.13}
 \contentsline {section}{\numberline {1.1}Elderly Issue}{1}{section.14}
@@ -48,25 +48,35 @@
 \contentsline {subsection}{\numberline {2.3.1}Ithaca College and Longview Partnership}{20}{subsection.64}
 \contentsline {subsubsection}{\numberline {2.3.1.1}Connections between Longview and Ithaca College}{20}{subsubsection.65}
 \contentsline {subsubsection}{\numberline {2.3.1.2}Site Plan and Building Layout}{20}{subsubsection.66}
-\contentsline {subsubsection}{\numberline {2.3.1.3}Activities}{20}{subsubsection.68}
-\contentsline {subsubsection}{\numberline {2.3.1.4}Housing Choices and Unit Design}{21}{subsubsection.69}
-\contentsline {section}{\numberline {2.4}Dementia Assisted Living}{23}{section.74}
-\contentsline {subsection}{\numberline {2.4.1}General Introduction}{23}{subsection.75}
-\contentsline {subsection}{\numberline {2.4.2}Design Features for Alzheimer}{24}{subsection.76}
-\contentsline {chapter}{\numberline {3}Preliminary Design}{25}{chapter.77}
-\contentsline {section}{\numberline {3.1}Design Specification}{25}{section.78}
-\contentsline {subsection}{\numberline {3.1.1}Major Functions}{25}{subsection.79}
-\contentsline {subsection}{\numberline {3.1.2}Degree of Care for the Elderly}{25}{subsection.83}
-\contentsline {section}{\numberline {3.2}Site Planning}{26}{section.84}
-\contentsline {section}{\numberline {3.3}Living Unit and Group Design}{26}{section.87}
-\contentsline {subsection}{\numberline {3.3.1}Topological Pattern of Living Cluster Design}{26}{subsection.88}
-\contentsline {subsection}{\numberline {3.3.2}Design Living Unit}{28}{subsection.90}
-\contentsline {subsection}{\numberline {3.3.3}Living Unit Group and Common Space Design}{29}{subsection.93}
-\contentsline {section}{\numberline {3.4}Path Arrangement}{35}{section.100}
-\contentsline {subsection}{\numberline {3.4.1}Access to Nature}{35}{subsection.102}
-\contentsline {subsection}{\numberline {3.4.2}Easier Way Finding}{36}{subsection.104}
-\contentsline {section}{\numberline {3.5}Sustainable System}{36}{section.105}
-\contentsline {chapter}{\numberline {4}Drawings}{37}{chapter.107}
+\contentsline {subsubsection}{\numberline {2.3.1.3}Activities}{20}{subsubsection.70}
+\contentsline {subsubsection}{\numberline {2.3.1.4}Housing Choices and Unit Design}{22}{subsubsection.71}
+\contentsline {section}{\numberline {2.4}Dementia Assisted Living}{24}{section.76}
+\contentsline {subsection}{\numberline {2.4.1}General Introduction}{24}{subsection.77}
+\contentsline {subsection}{\numberline {2.4.2}Design Features and Concerns for Alzheimer Care}{24}{subsection.78}
+\contentsline {subsection}{\numberline {2.4.3}Cases}{25}{subsection.79}
+\contentsline {subsubsection}{\numberline {2.4.3.1}Path Design}{25}{subsubsection.80}
+\contentsline {subsubsection}{\numberline {2.4.3.2}Public to Private Space Transition}{27}{subsubsection.87}
+\contentsline {chapter}{\numberline {3}Preliminary Design}{28}{chapter.89}
+\contentsline {section}{\numberline {3.1}Design Specification}{28}{section.90}
+\contentsline {subsection}{\numberline {3.1.1}Major Functions}{28}{subsection.91}
+\contentsline {subsection}{\numberline {3.1.2}Degree of Care for the Elderly}{28}{subsection.95}
+\contentsline {section}{\numberline {3.2}Site Planning}{29}{section.96}
+\contentsline {section}{\numberline {3.3}Living Unit and Group Design}{29}{section.99}
+\contentsline {subsection}{\numberline {3.3.1}Topological Pattern of Living Cluster Design}{29}{subsection.100}
+\contentsline {subsection}{\numberline {3.3.2}Design Living Unit}{31}{subsection.102}
+\contentsline {subsection}{\numberline {3.3.3}Living Unit Group and Common Space Design}{32}{subsection.105}
+\contentsline {section}{\numberline {3.4}Path Arrangement}{38}{section.112}
+\contentsline {subsection}{\numberline {3.4.1}Access to Nature}{38}{subsection.114}
+\contentsline {subsection}{\numberline {3.4.2}Easier Way Finding}{39}{subsection.116}
+\contentsline {section}{\numberline {3.5}Sustainable System}{39}{section.117}
+\contentsline {chapter}{\numberline {4}Drawings}{40}{chapter.119}
 \vspace {2em}
+\contentsline {chapter}{\numberline {A}List of Existing Senior Center}{45}{appendix.125}
+\contentsline {section}{\numberline {A.1}Senior Center Location}{45}{section.126}
+\contentsline {chapter}{\numberline {B}Data Processing Log of GIS Analysis}{47}{appendix.128}
+\contentsline {section}{\numberline {B.1}introduction}{47}{section.129}
+\contentsline {section}{\numberline {B.2}Process}{47}{section.130}
+\contentsline {subsection}{\numberline {B.2.1}Building Base Map and Acquiring Geographic Data}{47}{subsection.131}
+\contentsline {subsection}{\numberline {B.2.2}Using Geocoding to Add Senior Centers to the Map}{48}{subsection.141}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{42}{dummy.113}
+\contentsline {chapter}{Bibliography}{49}{dummy.146}
