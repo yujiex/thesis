@@ -40,43 +40,41 @@
 \contentsline {chapter}{\numberline {2}Case Study}{17}{chapter.55}
 \contentsline {section}{\numberline {2.1}General Design Considerations of Senior Population}{17}{section.56}
 \contentsline {section}{\numberline {2.2}Elderly and Children Combined Facility}{18}{section.57}
-\contentsline {subsection}{\numberline {2.2.1}Multi-generational Neighborhood Center}{18}{subsection.58}
-\contentsline {subsection}{\numberline {2.2.2}Mixed-generation Elderly Housing}{18}{subsection.59}
-\contentsline {subsection}{\numberline {2.2.3}Elderly Housing Next to Kindergarten}{19}{subsection.60}
-\contentsline {subsubsection}{\numberline {2.2.3.1}Altersheim Furttal, A Retirement Home in a Swiss Village}{19}{subsubsection.61}
-\contentsline {section}{\numberline {2.3}University Affiliated Senior Housing}{20}{section.63}
-\contentsline {subsection}{\numberline {2.3.1}Ithaca College and Longview Partnership}{20}{subsection.64}
-\contentsline {subsubsection}{\numberline {2.3.1.1}Connections between Longview and Ithaca College}{20}{subsubsection.65}
-\contentsline {subsubsection}{\numberline {2.3.1.2}Site Plan and Building Layout}{20}{subsubsection.66}
-\contentsline {subsubsection}{\numberline {2.3.1.3}Activities}{20}{subsubsection.70}
-\contentsline {subsubsection}{\numberline {2.3.1.4}Housing Choices and Unit Design}{22}{subsubsection.71}
-\contentsline {section}{\numberline {2.4}Dementia Assisted Living}{24}{section.76}
-\contentsline {subsection}{\numberline {2.4.1}General Introduction}{24}{subsection.77}
-\contentsline {subsection}{\numberline {2.4.2}Design Features and Concerns for Alzheimer Care}{24}{subsection.78}
-\contentsline {subsection}{\numberline {2.4.3}Cases}{25}{subsection.79}
-\contentsline {subsubsection}{\numberline {2.4.3.1}Path Design}{25}{subsubsection.80}
-\contentsline {subsubsection}{\numberline {2.4.3.2}Public to Private Space Transition}{27}{subsubsection.87}
-\contentsline {chapter}{\numberline {3}Preliminary Design}{28}{chapter.89}
-\contentsline {section}{\numberline {3.1}Design Specification}{28}{section.90}
-\contentsline {subsection}{\numberline {3.1.1}Major Functions}{28}{subsection.91}
-\contentsline {subsection}{\numberline {3.1.2}Degree of Care for the Elderly}{28}{subsection.95}
-\contentsline {section}{\numberline {3.2}Site Planning}{29}{section.96}
-\contentsline {section}{\numberline {3.3}Living Unit and Group Design}{29}{section.99}
-\contentsline {subsection}{\numberline {3.3.1}Topological Pattern of Living Cluster Design}{29}{subsection.100}
-\contentsline {subsection}{\numberline {3.3.2}Design Living Unit}{31}{subsection.102}
-\contentsline {subsection}{\numberline {3.3.3}Living Unit Group and Common Space Design}{32}{subsection.105}
-\contentsline {section}{\numberline {3.4}Path Arrangement}{38}{section.112}
-\contentsline {subsection}{\numberline {3.4.1}Access to Nature}{38}{subsection.114}
-\contentsline {subsection}{\numberline {3.4.2}Easier Way Finding}{39}{subsection.116}
-\contentsline {section}{\numberline {3.5}Sustainable System}{39}{section.117}
-\contentsline {chapter}{\numberline {4}Drawings}{40}{chapter.119}
+\contentsline {subsection}{\numberline {2.2.1}Multi-generational Housing and Neighborhood Center}{18}{subsection.58}
+\contentsline {subsection}{\numberline {2.2.2}Mixed-generation Elderly Housing}{19}{subsection.60}
+\contentsline {subsection}{\numberline {2.2.3}Elderly Housing Next to Kindergarten}{19}{subsection.61}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Altersheim Furttal, A Retirement Home in a Swiss Village}{19}{subsubsection.62}
+\contentsline {section}{\numberline {2.3}University Affiliated Senior Housing}{20}{section.64}
+\contentsline {subsection}{\numberline {2.3.1}Ithaca College and Longview Partnership}{20}{subsection.65}
+\contentsline {subsubsection}{\numberline {2.3.1.1}Connections between Longview and Ithaca College}{20}{subsubsection.66}
+\contentsline {subsubsection}{\numberline {2.3.1.2}Site Plan and Building Layout}{21}{subsubsection.67}
+\contentsline {subsubsection}{\numberline {2.3.1.3}Activities}{21}{subsubsection.71}
+\contentsline {subsubsection}{\numberline {2.3.1.4}Housing Choices and Unit Design}{22}{subsubsection.72}
+\contentsline {section}{\numberline {2.4}Dementia Assisted Living}{24}{section.77}
+\contentsline {subsection}{\numberline {2.4.1}General Introduction}{24}{subsection.78}
+\contentsline {subsection}{\numberline {2.4.2}Design Features and Concerns for Alzheimer Care}{25}{subsection.79}
+\contentsline {subsection}{\numberline {2.4.3}Cases}{26}{subsection.80}
+\contentsline {subsubsection}{\numberline {2.4.3.1}Path Design}{26}{subsubsection.81}
+\contentsline {subsubsection}{\numberline {2.4.3.2}Public to Private Space Transition}{28}{subsubsection.88}
+\contentsline {chapter}{\numberline {3}Preliminary Design}{30}{chapter.91}
+\contentsline {section}{\numberline {3.1}Design Specification}{30}{section.92}
+\contentsline {subsection}{\numberline {3.1.1}Major Functions}{30}{subsection.93}
+\contentsline {section}{\numberline {3.2}Site Planning}{31}{section.98}
+\contentsline {section}{\numberline {3.3}Living Unit and Group Design}{34}{section.102}
+\contentsline {subsection}{\numberline {3.3.1}Topological Pattern of Living Cluster Design}{34}{subsection.103}
+\contentsline {subsection}{\numberline {3.3.2}Design Living Unit}{36}{subsection.105}
+\contentsline {subsection}{\numberline {3.3.3}Common Space between Living Unit}{36}{subsection.110}
+\contentsline {section}{\numberline {3.4}Path Arrangement}{44}{section.115}
+\contentsline {subsection}{\numberline {3.4.1}Access to Nature}{44}{subsection.117}
+\contentsline {section}{\numberline {3.5}Schematic for Sustainable System}{45}{section.119}
+\contentsline {chapter}{\numberline {4}Drawings}{46}{chapter.121}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}List of Existing Senior Center}{45}{appendix.125}
-\contentsline {section}{\numberline {A.1}Senior Center Location}{45}{section.126}
-\contentsline {chapter}{\numberline {B}Data Processing Log of GIS Analysis}{47}{appendix.128}
-\contentsline {section}{\numberline {B.1}introduction}{47}{section.129}
-\contentsline {section}{\numberline {B.2}Process}{47}{section.130}
-\contentsline {subsection}{\numberline {B.2.1}Building Base Map and Acquiring Geographic Data}{47}{subsection.131}
-\contentsline {subsection}{\numberline {B.2.2}Using Geocoding to Add Senior Centers to the Map}{48}{subsection.141}
+\contentsline {chapter}{\numberline {A}List of Existing Senior Center}{51}{appendix.127}
+\contentsline {section}{\numberline {A.1}Senior Center Location}{51}{section.128}
+\contentsline {chapter}{\numberline {B}Data Processing Log of GIS Analysis}{53}{appendix.130}
+\contentsline {section}{\numberline {B.1}introduction}{53}{section.131}
+\contentsline {section}{\numberline {B.2}Process}{53}{section.132}
+\contentsline {subsection}{\numberline {B.2.1}Building Base Map and Acquiring Geographic Data}{53}{subsection.133}
+\contentsline {subsection}{\numberline {B.2.2}Using Geocoding to Add Senior Centers to the Map}{54}{subsection.143}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{49}{dummy.146}
+\contentsline {chapter}{Bibliography}{55}{dummy.148}

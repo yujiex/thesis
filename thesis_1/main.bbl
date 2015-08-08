@@ -1,4 +1,4 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{41}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -254,6 +254,12 @@ B.~Perkins.
 U~Cohena, G.~D. Weisman, V.~L. Steiner, and M.~Calkins.
 \newblock \emph{Environments for people with dementia: Case studies}.
 \newblock Health Facilities Research Program, Washington, DC, 1988.
+
+\bibitem[Lewin(1990)]{Lewin1990}
+Tamar Lewin.
+\newblock Alzheimer's and architecture: A search for order, May 1990.
+\newblock URL
+  \url{http://www.nytimes.com/1990/05/02/us/alzheimer-s-and-architecture-a-search-for-order.html}.
 
 \bibitem[Perkins(2004{\natexlab{b}})]{Perkins2004}
 B~Perkins.
